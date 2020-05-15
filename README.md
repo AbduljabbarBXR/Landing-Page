@@ -7,7 +7,7 @@
 More than just passion for my work, this is where all my project resides.
 
 ## Custom Requirements
-* Click here for details *https://github.com/AbduljabbarBXR/Landing-Page/tree/new-main-branch*  
+* Click here for details *https://github.com/AbduljabbarBXR/Landing-Page/blob/master/index.html*  
 
 ## Programming Languages used
 * HTML.
